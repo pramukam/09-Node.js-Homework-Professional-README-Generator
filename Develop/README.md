@@ -1,6 +1,6 @@
 
   
-# 09 Node.js Homework: Professional README Generator
+# # 09 Node.js Homework: Professional README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -32,11 +32,11 @@ Licensed under the MIT License. Copyright © 2021
 
 ## Contributors
 
-none
+None
 
 ## Test
 
-Please refer to project screenshots
+Please refere project video and screenshots
 
 ## Repository
 
