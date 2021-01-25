@@ -38,9 +38,19 @@ none
 
 Please refer to project screenshots
 
+Terminal 
+
+![Image of me](https://github.com/pramukam/09-Node.js-Homework-Professional-README-Generator/blob/master/Develop/ScreenShots/Screen%20Shot%202021-01-25%20at%204.56.13%20pm.png)
+
+Readme file 
+
+![Image of me](https://github.com/pramukam/09-Node.js-Homework-Professional-README-Generator/blob/master/Develop/ScreenShots/Screen%20Shot%202021-01-25%20at%204.53.13%20pm.png)
+
+
 ## Repository
 
 - [Project Repo](https://github.com/pramukam/09-Node.js-Homework-Professional-README-Generator)
+
 
 ## GitHub
 
