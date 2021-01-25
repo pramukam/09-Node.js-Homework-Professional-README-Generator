@@ -36,6 +36,10 @@ none
 
 ## Test
 
+Please visit below link to see the project video
+
+https://drive.google.com/file/d/17VAfhZdZIDEKZxEz0lJCxS_O14_Hc-Wp/view?usp=sharing
+
 Please refer to project screenshots
 
 Terminal 
